@@ -1,0 +1,9 @@
+[package]
+name = "actix-demo"
+version = "0.1.0"
+authors = ["Cayle Sharrock <cayle@nimbustech.biz>"]
+
+[dependencies]
+actix = "0.7"
+tokio = "0.1"
+rand = "0.5"
